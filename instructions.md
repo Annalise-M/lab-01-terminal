@@ -27,7 +27,7 @@ ____
 
 ____
 
-When creating your repo, start within the terminal with the following:
+**When creating your repo, start within the terminal with the following:**
 
 1. Open Terminal
 2. pwd
